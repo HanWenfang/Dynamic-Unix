@@ -14,7 +14,9 @@
 	pid operations[ getpid getppid ] => id() function in python
 	fork => new in heap or stack
 	waitpid => retrieve
-
+	
+	Shell is a map to unix api!
+	
 	g++ -W process_system.cpp -o process_type
 */
 
